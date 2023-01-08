@@ -83,9 +83,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Youtube',
-			icon: 'youtube',
-			link: 'https://www.youtube.com/',
+			name: 'SoundCloud',
+			icon: 'mic-2',
+			link: 'https://soundcloud.com/the-mihir-sahu',
 		},
 	],
 
@@ -98,9 +98,9 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'Instagram',
-			icon: 'instagram',
-			link: 'https://www.instagram.com/',
+			name: 'Medium',
+			icon: 'pencil',
+			link: 'https://mihirsahu.medium.com/',
 		},
 		{
 			id: '3',
