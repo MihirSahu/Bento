@@ -65,9 +65,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Todoist',
+			name: 'HourlyTracker',
 			icon: 'trello',
-			link: 'https://todoist.com',
+			link: 'https://docs.google.com/spreadsheets/d/1N84-dN2SSmSUd1KIbsYbx7d3VWsj_QjQ8H2UPjpL6c4/edit?usp=sharing',
 		},
 		{
 			id: '4',
@@ -83,9 +83,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Odysee',
+			name: 'Youtube',
 			icon: 'youtube',
-			link: 'https://odysee.com/',
+			link: 'https://www.youtube.com/',
 		},
 	],
 
@@ -98,9 +98,9 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'twitter',
-			icon: 'twitter',
-			link: 'https://twitter.com/',
+			name: 'Instagram',
+			icon: 'instagram',
+			link: 'https://www.instagram.com/',
 		},
 		{
 			id: '3',
@@ -110,21 +110,21 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'Amazon',
-			icon: 'shopping-bag',
-			link: 'https://amazon.com/',
+			name: 'Sync',
+			icon: 'refresh-cw',
+			link: 'https://cp.sync.com/vault/',
 		},
 		{
 			id: '5',
-			name: 'Hashnode',
-			icon: 'pen-tool',
-			link: 'https://hashnode.com/',
+			name: 'LinkedIn',
+			icon: 'linkedin',
+			link: 'https://www.linkedin.com/in/the-mihir-sahu',
 		},
 		{
 			id: '6',
-			name: 'Figma',
-			icon: 'figma',
-			link: 'https://figma.com/',
+			name: 'WSJ',
+			icon: 'newspaper',
+			link: 'https://www.wsj.com/',
 		},
 	],
 
