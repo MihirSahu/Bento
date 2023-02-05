@@ -83,9 +83,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'SoundCloud',
-			icon: 'mic-2',
-			link: 'https://soundcloud.com/the-mihir-sahu',
+			name: 'CougarCS Google Drive',
+			icon: 'triangle',
+			link: 'https://drive.google.com/drive/u/2/my-drive',
 		},
 	],
 
