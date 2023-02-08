@@ -136,6 +136,18 @@ body {
   justify-content: center;
 }
 
+.quoteBlock {
+  color: var(--fg);
+  font-size: var(--fg-secondary);
+  max-width: 45rem;
+  grid-column: 3 / span 2;
+  grid-row: 1 / span 2;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
 .date {
   display: flex;
   align-items: center;
