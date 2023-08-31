@@ -65,9 +65,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'HourlyTracker',
+			name: 'Linear',
 			icon: 'trello',
-			link: 'https://docs.google.com/spreadsheets/d/1N84-dN2SSmSUd1KIbsYbx7d3VWsj_QjQ8H2UPjpL6c4/edit?usp=sharing',
+			link: 'https://linear.app/mihirlife/team/LIF/all',
 		},
 		{
 			id: '4',
